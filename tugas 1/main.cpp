@@ -1,8 +1,8 @@
 #include<iostream>
 #include<array>
 
-/* Nama : Almira Zuhrotus Safira
-    Nim : A11.2022.14336
+/* Nama : M. Rifqi Febrian Mohar
+    Nim : A11.2022.14348
 */
 using namespace std;
 
